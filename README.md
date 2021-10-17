@@ -68,7 +68,7 @@ dtypes: **float64(13), int64(1)**
 
 > **Process took 1.2764582633972168 seconds.**
 
-You can find plot of test and train accuracy in ***Plot*** folder. Accuracy values and also plot can change a bit after if you run the algorithm with another model. **model.h5** represents **model_val_accuracy.png** graph. If you would like to see visualized ANNs model, please take a look at **ann.pdf** file 
+You can find plot of test and train accuracy in ***Plot*** folder. Accuracy values and also plot can change a bit after if you run the algorithm with another model. **model.h5** represents **model_val_accuracy.png** graph. If you would like to see visualized ANNs model, please take a look at **ann.pdf** file.
 
 ![val_accuracy](Plot/model_val_accuracy.png)
 
